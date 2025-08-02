@@ -23,7 +23,6 @@
 1. **Clone the Repository:**
 ```
 git clone https://github.com/jarif87/ai-powered-restaurant-recommendation-engine.git
-cd ai-powered-restaurant-recommendation-engine
 ```
 2. **Set Up a Virtual Environment (recommended):**
 
@@ -90,4 +89,5 @@ ai-powered-restaurant-recommendation-engine/
 - Animations: Subtle scaling on input focus and button hover for interactivity.
 - Responsive: Optimized for mobile with smaller fonts, padding, and a scrollable table.
 - Accessibility: ARIA labels and high-contrast colors for usability.
+
 
