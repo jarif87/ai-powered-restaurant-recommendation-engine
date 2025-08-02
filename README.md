@@ -1,9 +1,10 @@
 # AI-Powered Restaurant Recommendation Engine
 
-```
-A web-based application built with FastAPI that provides personalized restaurant recommendations based on user preferences such as star rating, review count, category, city, and attributes (e.g., GoodForKids, OutdoorSeating). The application uses fuzzy matching for robust category and city searches, and a modern, eye-catching UI with a vibrant gradient background, rounded form elements, and smooth animations.
+**A web-based application built with FastAPI that provides personalized restaurant recommendations based on user preferences such as star rating, review count, category, city, and attributes (e.g., GoodForKids, OutdoorSeating). The application uses fuzzy matching for robust category and city searches, and a modern, eye-catching UI with a vibrant gradient background, rounded form elements, and smooth animations.**
 
-```
+![](images/image.png)
+
+
 ## Features
 - Personalized Recommendations: Filter restaurants by star rating (1.0-5.0), minimum review count, category (e.g., Sushi Bars, Italian), city (optional), and attributes (e.g., GoodForKids, BusinessAcceptsCreditCards).
 - Fuzzy Matching: Handles misspellings or variations in city and category inputs using the fuzzywuzzy library.
